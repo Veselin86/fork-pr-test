@@ -10,4 +10,4 @@ els __forks__ i __pull requests (PR)__.
 - Joan Puigcerver
 - Josema Fuentes
 - Manuel Lorente
-- Veselin Vladimirov
+- Veselin
